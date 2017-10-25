@@ -2,9 +2,7 @@
 我们先将zstack的源码全部拷贝过来，然后删除以下无关的代码
 	1、进入ZStack-CC2530-2.3.0-1.4.0-GenericApp目录
 	   删除Documents（帮助文档）、Tools（一些工具）、Getting Started Guide - CC2530.pdf（用户手册）
-	2、进入ZStack-CC2530-2.3.0-1.4.0-GenericApp\Projects\zstack
-	   只保留Samples目录，其他都删除
-	3、进入ZStack-CC2530-2.3.0-1.4.0-GenericApp\Projects\zstack\Samples
+	2、进入ZStack-CC2530-2.3.0-1.4.0-GenericApp\Projects\zstack\Samples
 	   只保留GenericApp目录，其他都删除
 	   
 注意：
